@@ -8,3 +8,4 @@
            連續數值例如座標的標準化（Z-transform、0 to 1 range、-1 to 1 range）
 - Day_012：數值欄位：補缺失值與非連續值欄位標準化（最大最小化、標準化）
            標準化的原因：避免欄位間資料範圍差異大時，模型易受範圍較大的欄位影響，並且加速學習速度（收斂會加快）
+- Day_013：DataFrame 操作：merge / concat / melt；groupby / cut / apply
