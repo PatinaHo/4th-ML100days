@@ -10,3 +10,4 @@
            標準化的原因：避免欄位間資料範圍差異大時，模型易受範圍較大的欄位影響，並且加速學習速度（收斂會加快）
 - Day_013：DataFrame 操作：merge / concat / melt；groupby / cut / apply
 - Day_014：EDA (Exploratory Data Analysis)：視覺化統計值 -- 相關係數 correlation
+- Day_015：EDA：顯示所有欄位的相關係數，使用 plots 顯示相關度最大/最小的 feature 與 target 的關係
