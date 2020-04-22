@@ -12,3 +12,4 @@
 - Day_014：EDA (Exploratory Data Analysis)：視覺化統計值 -- 相關係數 correlation
 - Day_015：EDA：顯示所有欄位的相關係數，使用 plots 顯示相關度最大/最小的 feature 與 target 的關係
 - Day_016：EDA：畫 KDE plot 以了解連續型變數（如年齡）和目標值（如違約與否）的關係，例如哪個年齡區間的違約機率最高
+- Day_017：EDA：連續型變數的離散化，等寬劃分 / 等頻劃分
